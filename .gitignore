@@ -1,0 +1,10 @@
+build/
+cmake-cache/
+*.o
+*.log
+*.xml
+*.pcap
+*.tr
+__pycache__/
+.DS_Store
+*.tmp
